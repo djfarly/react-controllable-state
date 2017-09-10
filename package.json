@@ -1,0 +1,24 @@
+{
+  "name": "react-controllable-state",
+  "version": "1.0.0",
+  "description": "Controllable state for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djfarly/react-controllable-state.git"
+  },
+  "keywords": [
+    "react",
+    "state",
+    "controllable"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djfarly/react-controllable-state/issues"
+  },
+  "homepage": "https://github.com/djfarly/react-controllable-state#readme"
+}
